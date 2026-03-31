@@ -18,8 +18,8 @@ Manual annotation of high-quality Visual Question Answering with Grounding (VQA-
 
 ## News
 
-- **[2025/03]** 🎉 Paper accepted at **ICASSP 2026** as a Poster presentation! Full code released.
-- **[2024/09]** Initial prompt templates released.
+- **[2026/03]** 🎉 Paper accepted at **ICASSP 2026** as a Poster presentation! Full code released.
+- **[2025/09]** Initial prompt templates released.
 
 ## Project Structure
 
